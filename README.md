@@ -35,6 +35,10 @@ We build modern web applications, AI-powered tools, and open source developer ut
 
 - **[ChatGPT Prompt Engineering Toolkit](https://github.com/turkcode-ai/chatgpt-prompt-engineering)** - AI/LLM toolkit for ChatGPT Prompt Engineering Toolkit
 
+### ⚛️ Web Development
+
+- **[Astra UI](https://github.com/turkcode-ai/astra-ui)** - Web application built with Next.js/React - Astra UI
+
 ---
 
 <div align="center">
