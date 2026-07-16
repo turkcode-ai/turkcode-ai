@@ -87,7 +87,7 @@ const ersin = {
 [![ai-prompts-turkish](https://github-readme-stats.vercel.app/api/pin/?username=turkcode-ai&repo=ai-prompts-turkish&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0369A1&icon_color=22C55E)](https://github.com/turkcode-ai/ai-prompts-turkish)
 
 [![nextjs-saas-boilerplate](https://github-readme-stats.vercel.app/api/pin/?username=turkcode-ai&repo=nextjs-saas-boilerplate&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0369A1&icon_color=22C55E)](https://github.com/turkcode-ai/nextjs-saas-boilerplate)
-[![tailwind-landing-blocks](https://github-readme-stats.vercel.app/api/pin/?username=turkcode-ai&repo=tailwind-landing-blocks&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0369A1&icon_color=22C55E)](https://github.com/turkcode-ai/tailwind-landing-blocks)
+[![claude-code-skills](https://github-readme-stats.vercel.app/api/pin/?username=turkcode-ai&repo=claude-code-skills&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0369A1&icon_color=22C55E)](https://github.com/turkcode-ai/claude-code-skills)
 
 </div>
 
