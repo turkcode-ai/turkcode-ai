@@ -83,10 +83,11 @@ const ersin = {
 
 <div align="center">
 
-[![chatgpt-prompt-engineering](https://github-readme-stats.vercel.app/api/pin/?username=turkcode-ai&repo=chatgpt-prompt-engineering&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0369A1&icon_color=22C55E)](https://github.com/turkcode-ai/chatgpt-prompt-engineering)
-[![astra-ui](https://github-readme-stats.vercel.app/api/pin/?username=turkcode-ai&repo=astra-ui&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0369A1&icon_color=22C55E)](https://github.com/turkcode-ai/astra-ui)
+[![awesome-free-apis](https://github-readme-stats.vercel.app/api/pin/?username=turkcode-ai&repo=awesome-free-apis-&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0369A1&icon_color=22C55E)](https://github.com/turkcode-ai/awesome-free-apis-)
+[![ai-prompts-turkish](https://github-readme-stats.vercel.app/api/pin/?username=turkcode-ai&repo=ai-prompts-turkish&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0369A1&icon_color=22C55E)](https://github.com/turkcode-ai/ai-prompts-turkish)
 
-[![next-shield](https://github-readme-stats.vercel.app/api/pin/?username=turkcode-ai&repo=next-shield&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0369A1&icon_color=22C55E)](https://github.com/turkcode-ai/next-shield)
+[![nextjs-saas-boilerplate](https://github-readme-stats.vercel.app/api/pin/?username=turkcode-ai&repo=nextjs-saas-boilerplate&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0369A1&icon_color=22C55E)](https://github.com/turkcode-ai/nextjs-saas-boilerplate)
+[![tailwind-landing-blocks](https://github-readme-stats.vercel.app/api/pin/?username=turkcode-ai&repo=tailwind-landing-blocks&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0369A1&icon_color=22C55E)](https://github.com/turkcode-ai/tailwind-landing-blocks)
 
 </div>
 
